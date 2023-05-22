@@ -12,7 +12,7 @@ paginate     = 10
 
   # Subtitle for home
   homeSubtitle = "Software Engineer // Tech Lead // Engineering Manager // Event Storming enthusiast"
-  homeSubtitleRow2 = "developer [noun] a person who optimizes your business processes with a dash of software" 
+  homeSubtitleRow2 = "developer [noun] a person who optimizes your business processes with a dash of software"
 
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = false
@@ -24,7 +24,7 @@ paginate     = 10
   enableGlobalLanguageMenu = true
 
   # Metadata mostly used in document's head
-  description = "My new homepage or blog"
+  description = "developer [noun] a person who optimizes your business processes with a dash of software; I'm your developer, software engineer, tech lead, engineering manager, and event storming enthusiast. Let me help you!"
   keywords = "homepage, blog"
   images = [""]
 
