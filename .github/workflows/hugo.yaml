@@ -59,7 +59,7 @@ jobs:
           hugo \
             --gc \
             --minify \
-            --baseURL "https://eventstorming.training/"
+            --baseURL "https://matee.net/"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
