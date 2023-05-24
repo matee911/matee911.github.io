@@ -60,7 +60,7 @@ paginate     = 10
 #    url        = "/posts"
     identifier = "eventstorming"
     name       = "Event Storming"
-    url        = "https://eventstorming.training/"
+    url        = "https://eventstorming.training/?utm_source=matee.net&utm_medium=www&utm_campaign=www&utm_content=menu"
 
   [[menu.main]]
 #    identifier = "blog"
@@ -68,4 +68,4 @@ paginate     = 10
 #    url        = "/posts"
     identifier = "poczatkujacyprogramista"
     name       = "Beginner Programmer(pl)"
-    url        = "https://poczatkujacyprogramista.pl/"
+    url        = "https://poczatkujacyprogramista.pl/?utm_source=matee.net&utm_medium=www&utm_campaign=www&utm_content=menu"
